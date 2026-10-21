@@ -1307,6 +1307,23 @@
     ],
     "originalBytes": 1584488
   },
+  "/NewHeros/Tyvek Cleanroom Safety Showcase.png": {
+    "width": 1672,
+    "height": 941,
+    "variants": [
+      {
+        "width": 768,
+        "url": "/NewHeros/Tyvek Cleanroom Safety Showcase-768.webp",
+        "bytes": 29820
+      },
+      {
+        "width": 1672,
+        "url": "/NewHeros/Tyvek Cleanroom Safety Showcase-1672.webp",
+        "bytes": 86244
+      }
+    ],
+    "originalBytes": 1781367
+  },
   "/NewHeros/WESLEY dialysis machine and sterile accessories.png": {
     "width": 1672,
     "height": 941,
