@@ -23,3 +23,5 @@
 - [x] Move page links to the top strip and product categories into the main navigation bar; verify links and mobile access.
 - [x] Link all partner logos to public/icons and verify they load.
 - [x] Remove green hero letterboxing and size the desktop frame to the supplied photo proportions.
+
+- [x] Add the Tyvek Cleanroom Safety Showcase hero slide with coveralls copy.
